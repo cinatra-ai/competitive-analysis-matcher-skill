@@ -1,0 +1,17 @@
+{
+  "name": "@cinatra-ai/competitive-analysis-matcher-skill",
+  "version": "0.1.0",
+  "license": "Apache-2.0",
+  "description": "Classifies an attached resource as a Competitive Analysis document. Extracted from @cinatra-ai/competitive-analysis-artifact (cinatra#2090).",
+  "type": "module",
+  "files": [
+    "skills"
+  ],
+  "cinatra": {
+    "apiVersion": "cinatra.ai/v1",
+    "kind": "skill",
+    "displayName": "Competitive Analysis Matcher Skill",
+    "skillRole": "matcher",
+    "dependencies": []
+  }
+}
